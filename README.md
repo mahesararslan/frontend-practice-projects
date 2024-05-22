@@ -1,7 +1,7 @@
-#Frontend Projects Collection
+# Frontend Projects Collection
 This repository features a collection of seven frontend projects showcasing my skills in HTML, CSS, and JavaScript. Each project demonstrates different aspects of web development, from responsive design to interactive features.
-<br>
-#Projects Included
+<br><br>
+# Projects Included
 <br>
 -Weather App<br>
 A weather application integrating a third-party API to display current weather conditions.
